@@ -58,14 +58,14 @@ This project performs exploratory data analysis (EDA) on Zomato restaurant data 
 
 1. Clone this repository
 
-''' sh
-git clone https://github.com/Abhimanyusit/zomato_data_analysis.git
-cd zomato
-'''
+   ```sh
+   git clone https://github.com/Abhimanyusit/zomato_data_analysis.git
+   cd zomato
+   ```
 
 2. Install dependencies
 
-''' sh
+'''sh
 pip install pandas numpy matplotlib seaborn
 '''
 
@@ -73,7 +73,7 @@ pip install pandas numpy matplotlib seaborn
 
 4. Run the script
 
-''' sh
+'''sh
 python main.py
 '''
 
