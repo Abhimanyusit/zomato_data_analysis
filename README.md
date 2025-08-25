@@ -65,17 +65,17 @@ This project performs exploratory data analysis (EDA) on Zomato restaurant data 
 
 2. Install dependencies
 
-'''sh
-pip install pandas numpy matplotlib seaborn
-'''
+   '''sh
+   pip install pandas numpy matplotlib seaborn
+   '''
 
 3. Place the dataset (Zomato-data.csv) in the content/ folder.
 
 4. Run the script
 
-'''sh
-python main.py
-'''
+   '''sh
+   python main.py
+   '''
 
 ## Requirements
 
